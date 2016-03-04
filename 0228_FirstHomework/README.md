@@ -1,7 +1,8 @@
 # 0228_first homework
 by guozongxun
 ##01_iPhone手机开发者选项网络模拟详情
-###1、iPhone手机，连接mac之后，打开xcode，会在设置页面出现“`开发者`”选项，截图如下：![开发者选项截屏](https://raw.githubusercontent.com/Test-Seven/guozongxun/master/0228_FirstHomework/01_iPhone%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9%E7%BD%91%E7%BB%9C%E6%A8%A1%E6%8B%9F%E8%AF%A6%E6%83%85%E6%88%AA%E5%B1%8F/010_iOS_developer.jpg)
+###1、iPhone手机，连接mac之后，打开xcode，会在设置页面出现“`开发者`”选项，点击该选项，可以进入详情页面，截图如下：  
+![开发者选项截屏](https://raw.githubusercontent.com/Test-Seven/guozongxun/master/0228_FirstHomework/01_iPhone%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9%E7%BD%91%E7%BB%9C%E6%A8%A1%E6%8B%9F%E8%AF%A6%E6%83%85%E6%88%AA%E5%B1%8F/010_iOS_developer.jpg)
 ###2、点击“`NETWORK LINK CONDITIONER`”栏目下的“`Status`”进入“`NETWORK LINK CONDITIONER`”的详情页面，截屏如下：
 ![Network Link Conditioner截屏](https://raw.githubusercontent.com/Test-Seven/guozongxun/master/0228_FirstHomework/01_iPhone%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E9%80%89%E9%A1%B9%E7%BD%91%E7%BB%9C%E6%A8%A1%E6%8B%9F%E8%AF%A6%E6%83%85%E6%88%AA%E5%B1%8F/020_Network%20Link%20Conditioner.PNG)
 ###3、查看当前页面，可以看到默认有7种网络模拟情景：`100% Loss`、`3G`、`DSL`、`Edge`、`High Latency DNS`、`Very Bad Network`、`Wifi`，依次点击进入对应的详情页面查看，详细数据如下图所示：  
